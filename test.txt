@@ -4,4 +4,6 @@ Till the day when everything turns black
 
 Test Line test
 
+Test 2
+
 git commit -m 'changed test.txt'
